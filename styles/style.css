@@ -117,7 +117,7 @@
   grid-column: 1 / 2;
   color: var(--title-color);
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  line-height: 95.7px;
+  line-height: 96.28px;
   font-weight: 700;
   text-shadow: 4px 4px 0 var(--title-color-shadow);
 }
@@ -348,7 +348,7 @@
   }
 
   .header__title {
-    line-height: 130px; /* Исправил интерлиньяж*/
+  line-height: 130px;
     
   }
   
